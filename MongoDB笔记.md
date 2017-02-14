@@ -1,4 +1,4 @@
-#MongoDB笔记
+#MongoDB
 
 
 ##MongoDB的安装注意事项
